@@ -15,9 +15,6 @@ import xyz.cglzwz.chatroom.service.CustomUserService;
 /**
  * Spring Security 5配置
  *
- * @author chgl16
- * @date 2018-12-16
- * @version 1.0
  */
 
 @Configuration
